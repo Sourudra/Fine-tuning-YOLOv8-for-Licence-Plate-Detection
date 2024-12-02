@@ -37,6 +37,3 @@ The model used for this project is **YOLOv8n**, a lightweight version of YOLOv8 
 
 ---
 
-![License Plate Detection Workflow](https://github.com/user-attachments/assets/license-plate-detection.png)
-
-
