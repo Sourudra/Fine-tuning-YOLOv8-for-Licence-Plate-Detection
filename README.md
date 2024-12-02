@@ -36,4 +36,6 @@ The model used for this project is **YOLOv8n**, a lightweight version of YOLOv8 
 - **Model Optimization:** Exploring model compression techniques for faster inference.  
 
 ---
-
+## **Check My Other Repo**  
+This model is used for  [other repository here](https://github.com/Sourudra/Fine-tuning-YOLOv8-for-Licence-Plate-Detection).
+---
