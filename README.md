@@ -36,6 +36,8 @@ The model used for this project is **YOLOv8n**, a lightweight version of YOLOv8 
 - **Model Optimization:** Exploring model compression techniques for faster inference.  
 
 ---
-## **Check My Other Repo**  
-This model is used for  [other repository here](https://github.com/Sourudra/Fine-tuning-YOLOv8-for-Licence-Plate-Detection).
+## **Project Enhancement**  
+
+This project has been further developed, where the license plate detected using the fine-tuned YOLOv8 model is processed by EasyOCR to extract the license plate number. The extracted number is then saved in a CSV file for further analysis. To know more [check this repository.](https://github.com/Sourudra/Fine-tuning-YOLOv8-for-Licence-Plate-Detection).
+
 ---
