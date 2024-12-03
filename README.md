@@ -1,6 +1,10 @@
 # **Fine-tuning-YOLOv8-for-Licence-Plate-Detection**
 
-![anpr](https://github.com/user-attachments/assets/6350f00b-17ee-4cf1-b209-310e6a899068)
+
+
+![anpr](https://github.com/user-attachments/assets/ff6bde62-3719-495c-8de8-9d7f35e89b95)
+
+
 ## **Project Overview**  
 This project leverages the power of **YOLOv8**, a state-of-the-art object detection model known for its speed and accuracy, to detect license plates from images. YOLO (You Only Look Once) is trained to detect various objects using datasets like **COCO**, but it needs fine-tuning for specialized tasks such as license plate detection.
 
